@@ -1,7 +1,6 @@
 
 
-![@mrtaakts](https://user-images.githubusercontent.com/57454282/122684218-d03c8600-d20c-11eb-9dd8-c7a75dcdfed5.png)
-<img align="left" alt="Mert Aktas Stats" src="https://github-readme-stats.vercel.app/api?username=mrtaakts&show_icons=true&hide_border=true" />
+
 
 ### Hi there 👋
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
  - ⚡ Fun fact: Before being acquired by Google, YouTube was offered to Microsoft for a mere $ 500 million, almost half of what Google ended up paying later.
 ##  
-<a href='https://www.linkedin.com/in/mert-aktas/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='50px'/></a>
+<img align="left" alt="Mert Aktas Stats" src="https://github-readme-stats.vercel.app/api?username=mrtaakts&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 
 
 
