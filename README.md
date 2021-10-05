@@ -1,6 +1,7 @@
 
 
 ![@mrtaakts](https://user-images.githubusercontent.com/57454282/122684218-d03c8600-d20c-11eb-9dd8-c7a75dcdfed5.png)
+<img align="left" alt="Mert Aktas Stats" src="https://github-readme-stats.vercel.app/api?username=mrtaakts&show_icons=true&hide_border=true" />
 
 ### Hi there 👋
 
