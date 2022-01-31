@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **.net, .net core etc.**
 
-- 📫 How to reach me **mrtaakts@gmail.com**
+- 📫 How to reach me **[Mail](mailto:mrtaakts@gmail.com)**
 
-- 📄 Know about my experiences [Portfolio](https://mrtaakts.github.io/)
+- 📄 Know about my experiences **[Portfolio](https://mrtaakts.github.io/)**
 
 - ⚡ Fun fact **Before being acquired by Google, YouTube was offered to Microsoft for a mere $ 500 million, almost half of what Google ended up paying later.**
 
